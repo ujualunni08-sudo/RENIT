@@ -10,7 +10,11 @@
   "background_color": "#9900FF",
   "theme_color": "#9900FF",
   "icons": [
-    
+     {
+      "src": "/favicon.ico",
+      "sizes": "48x48 72x72 96x96 128x128 256x256 512x512",
+      "type": "image/x-icon"
+    },
     {
       "src": "/lovable-uploads/logo/android-launchericon-48-48.png",
       "sizes": "48x48",
