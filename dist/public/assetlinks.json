@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.renit.app",
+        "sha256_cert_fingerprints": ["68:6F:1F:B4:5A:0B:09:50:24:7E:CE:25:09:8E:6C:35:A1:49:B2:1B:FB:7C:4B:64:13:EB:35:9F:2E:76:D2:34"]
+      }
+    }]
